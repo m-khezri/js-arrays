@@ -26,3 +26,24 @@ if (wordArray === reverseArray){
 palchecker('mom'); //yes
 palchecker('monkeybutt'); //no
 palchecker('racecar'); //yes
+
+
+let animals = ['spider' , 'snakes', 'gophers', 'big spiders'];
+
+const lastitem = animals.pop(); // big spider
+const firstitem = animals.shift(); //spider
+
+animals.push('bat');
+animals.unshift('baby hippo');
+console.log('animal', animals);
+
+
+// what's your starting value - 0
+// what's your stopping value - something.length
+// how are you increamenting - +1
+
+for (let i = 0; i < animals.length; i++) {
+console.log(animals[i]);
+}
+
+
