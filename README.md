@@ -11,7 +11,7 @@ This projects is and exploration of javascript functions. I built an animal nugg
 ```sh
 * Run the server
 ```
-
+ 
 
 ```sh
 * Use npm to install this project
