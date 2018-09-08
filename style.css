@@ -1,0 +1,10 @@
+body{
+    background-color: beige;
+}
+
+.statement{
+    background-color: aquamarine;
+    border: 1px solid lightgray;
+    width: 50%;
+    padding: 2%;
+}
