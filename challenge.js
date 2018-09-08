@@ -99,6 +99,9 @@ for (let i = 0; i < elizabethSanger.statements.length; i++){
   };
 
 
+
+
+  
   voterregistrationStringBuilder();
   donationFormStringBuilder();
   statementsStringBuilder();
